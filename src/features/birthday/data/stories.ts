@@ -376,9 +376,22 @@ Love you forever! `,
     authorFirstName: "Praise",
     displayName: "Praise",
     writeup:
-      `
-`,
-    contributorImage: "https://picsum.photos/seed/bday-s19/480/640",
+      `Hi my love🥰❤️
+It’s your 21st year and looking at how far you’ve come, I’m happy that you’re where you are now in life and even in my life. 
+My Sister🫂😍 the one in whom I’m well pleased, looking back at our first conversation that started with just similar taste in music and now it has blossomed into a beautiful sisterhood is definitely the kairos of God.
+
+I’ve learnt so much from you that I would probably not have learnt on my own, your heart is very beautiful my love, I’ve seen you go all out for the people that you love, you’re just like a stream that never goes dry. Looking at your life, one thing I really love about you is how expressive you are, everything that you term as important enjoys your expressiveness. In showing love you go all out with your love language, in turning up for your people you’re up like the morning sun, in leadership you pour your whole heart because you want to be the change in that system, in your interest you put in your whole heart, yes sometimes you get scared but I’ve seen you grow and overcome those fears and face them head on.
+My love like I said earlier your heart is beautiful, sometimes you feel overwhelmed that you cannot handle all that you want to do but I’ve seen you put your feelings aside and focus on you goals, even in your tears and anger you put people first. My baby you’re so smart like it’s the way you don’t try to handle your problems alone, you ask for counsel and the best means to handle situations and that my love is worth emulating, you might not know this but you’re getting smarter and stronger, the Oyindamola I knew 3 years ago is not the same with who I know today, she has grown to be a young independent woman that makes informed decisions.
+My love keep being who you are, don’t let anyone dim your light, you’re are closer to the top than ever, yes life is not straight and everything is not all rosy but one thing I’m confident of is that you’ll scale through.
+In this new year my love I pray that you grow exponentially way beyond your brain can fathom, I hope that this year you learn to drop those weights that you carry and always be that happy confident girl I know, I pray you become much more wiser to handle everything that comes your way.
+My Sister❤️ I loveeeeee youuuuu so muchhhhhhhhhh, thank you for loving me, you’ve loved me in ways no one ever has, you’ve thought me to be more intentional with love and I keep learning from you each time, I pray your heart continually remains strong and steady, may you receive so much love way beyond what you imagine, I pray that you’re surrounded by your people for life. Your life is a representation of goodness and all eyes can actually testify of this.
+This 21st year is the best you’ve ever experienced yet, you will live in answered prayers all the days of your life. 
+I love you so much my baby, I pray I keep on increasing in love for you.
+
+ Fun fact: You thought me how to be more expressive with emojis and word elongation🤭😂. Love you so much my girl💕
+
+With love, Your sister for life`,
+    contributorImage: "/birthday/images/praise.jpeg",
   }
 ]
 
